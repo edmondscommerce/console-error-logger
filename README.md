@@ -7,7 +7,7 @@ Provides a class that can be used in Symfony 4 to log errors and non-zero exit s
 
 In order to install this module add the following to your `composer.json`:
 
-```json
+```text
 {
   ...
   "require": {
